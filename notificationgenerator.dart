@@ -1,3 +1,5 @@
+//Run flutter pub add flutter_local_notifications and then run flutter pub get 
+
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
