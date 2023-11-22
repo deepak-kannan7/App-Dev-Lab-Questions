@@ -1,3 +1,5 @@
+//Run flutter pub add geolocator, then run flutter pub add sensors_plus and then run flutter pub get
+
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:sensors_plus/sensors_plus.dart';
